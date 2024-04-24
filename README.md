@@ -6,6 +6,8 @@
 - Uses [react-router-dom](https://reactrouter.com/en/main) for routing between multiple 'pages'
 - Uses Vite's built-in proxy to forward requests to the EOD Service API, avoiding CORS issues, in local/dev mode
 - I built this in order to learn a bit about React and Vite
+- Similar to the [Vue.js version of the same project](https://github.com/mring33621/eod-service-ui-v3), but with React
+
 
 ![Example](./example.png)
 
